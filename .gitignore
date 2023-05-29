@@ -1,0 +1,6 @@
+/Python/env
+/JavaVicente
+/Python/__pycache__
+
+*.class
+*.xlsx
